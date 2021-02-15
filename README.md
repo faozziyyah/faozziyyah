@@ -15,8 +15,10 @@
 
 ### 📫 How to reach me: ...
   On Twitter: https://twitter.com/faozziyyah/
+
   Via LinkedIn: https://www.linkedin.com/in/faasamomowunmi-daud
-  Or my portfolio: <a href="https://my-portfolio.faozziyyah.vercel.app/"></a>
+
+  Or my portfolio: https://my-portfolio.faozziyyah.vercel.app/
 
 
 
