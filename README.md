@@ -1,5 +1,5 @@
 ### Hi there 👋
-  I'm a website development with much passion for technology.
+  I'm a website developer with much passion for technology.
   I'm willing to improve my skills through team work and constant learning with practice.
 
 ### 🌱 I’m currently learning ...
