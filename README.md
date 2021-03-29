@@ -14,7 +14,7 @@
   I design beautiful graphics such as posters, fliers, business cards and much more.
 
 ### 📫 How to reach me: ...
-  On Twitter: https://twitter.com/faozziyyah/
+  On Twitter: https://twitter.com/muslimahdev/
 
   Via LinkedIn: https://www.linkedin.com/in/faasamomowunmi-daud
 
