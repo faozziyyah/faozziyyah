@@ -20,7 +20,7 @@
 
   Or my portfolio: https://my-portfolio.faozziyyah.vercel.app/
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faozziyyah&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faozziyyah&show_icons=true&theme=gruvbox)
 
 
 
