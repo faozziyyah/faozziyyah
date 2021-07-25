@@ -2,7 +2,7 @@
   I'm a website developer with much passion for technology.
   I'm willing to improve my skills through team work and constant learning with practice.
   
-  ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/<code>-<javascript>-informational?style=flat&logo=<javaScript>&logoColor=white&color=#F7DF1E)
 
 ### 🌱 I’m currently learning ...
   Advanced javascript and react.
@@ -16,6 +16,22 @@
   I design beautiful graphics such as posters, fliers, business cards and much more.
 
 ### 📫 How to reach me: ...
+
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/muslimahdev?s=08
+[2]: https://www.linkedin.com/in/faasamomowunmi-daud
+
+
   On Twitter: https://twitter.com/muslimahdev/
 
   Via LinkedIn: https://www.linkedin.com/in/faasamomowunmi-daud
