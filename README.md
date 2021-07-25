@@ -21,6 +21,8 @@
   Or my portfolio: https://my-portfolio.faozziyyah.vercel.app/
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faozziyyah&show_icons=true&theme=gruvbox)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faozziyyah&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
