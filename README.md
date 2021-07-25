@@ -22,6 +22,8 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faozziyyah&show_icons=true&theme=gruvbox)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faozziyyah&repo=github-readme-stats)](https://github.com/faozziyyah/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faozziyyah)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
