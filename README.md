@@ -1,6 +1,8 @@
 ### Hi there 👋
   I'm a website developer with much passion for technology.
   I'm willing to improve my skills through team work and constant learning with practice.
+  
+  ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ### 🌱 I’m currently learning ...
   Advanced javascript and react.
