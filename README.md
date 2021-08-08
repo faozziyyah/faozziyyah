@@ -1,8 +1,24 @@
 ### Hi there 👋
-  I'm a website developer with much passion for technology.
+  ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=plastic)
+
+  I'm a website developer with much passion for design and technology. <br>
   I'm willing to improve my skills through team work and constant learning with practice.
   
-  ![](https://img.shields.io/badge/<code>-<javascript>-informational?style=flat&logo=<javaScript>&logoColor=white&color=#F7DF1E)
+  **Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=faozziyyah&theme=monokai&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### 🌱 I’m currently learning ...
   Advanced javascript and react.
@@ -16,31 +32,33 @@
   I design beautiful graphics such as posters, fliers, business cards and much more.
 
 ### 📫 How to reach me: ...
-
-<!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/muslimahdev?s=08
-[2]: https://www.linkedin.com/in/faasamomowunmi-daud
-
-
-  On Twitter: https://twitter.com/muslimahdev/
-
-  Via LinkedIn: https://www.linkedin.com/in/faasamomowunmi-daud
-
-  Or my portfolio: https://my-portfolio.faozziyyah.vercel.app/
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faozziyyah&show_icons=true&theme=gruvbox)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faozziyyah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/muslimahdev?s=08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/faasamomowunmi-daud" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/muslimahdev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://mobile.facebook.com/yemi.tunde.3386" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+</p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=faozziyyah&theme=monokai)](https://git.io/streak-stats)
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faozziyyah&show_icons=true&include_all_commits=true&theme=gruvbox" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faozziyyah&layout=compact&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faozziyyah&repo=faozziyyah&theme=gruvbox" />
+</a>    
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faozziyyah&repo=faozziyyah.github.io&theme=material-palenight" />
+</a>
 
 
 
