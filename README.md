@@ -24,12 +24,11 @@
   Advanced javascript and react.
  
 ### 👯 I’m looking to collaborate on ...
-  Projects related to website development and graphics design.
+  Projects related to website development and UI/UX design.
 
 
 ### 💬 Ask me about ...
-  Graphics Design and front-end development 📱💻
-  I design beautiful graphics such as posters, fliers, business cards and much more.
+  UI/UX Design and front-end development 📱💻
 
 ### 📫 How to reach me: ...
   
