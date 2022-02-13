@@ -53,17 +53,17 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faozziyyah&layout=compact&theme=material-palenight&border_color=61dafb&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a" />
-</a>
+</a> <br> <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faozziyyah&repo=faozziyyah&theme=gruvbox" />
-</a>    <br>
+</a>    <br> <br>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faozziyyah&repo=faozziyyah.github.io&theme=material-palenight" />
-</a> <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=faozziyyah&theme=react-dark&bg_color=20232a&border_color=61dafb" width="50%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faozziyyah&repo=faozziyyah.github.io&theme=material-palenight&border_color=61dafb&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a" />
+</a> <br> <br>
+<img src="https://activity-graph.herokuapp.com/graph?username=faozziyyah&theme=react-dark&bg_color=20232a&border_color=61dafb&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a" width="60%"/>
 
 
 
