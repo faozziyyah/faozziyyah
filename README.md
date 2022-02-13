@@ -40,10 +40,10 @@
   <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<code><a href="https://twitter.com/muslimahdev?s=08 title="Twitter Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"> Twitter</a></code>
-<code><a href="https://www.linkedin.com/in/faasamomowunmi-daud title="Linkedin Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"> Linkedin</a></code> 
-<code><a href="https://www.instagram.com/muslimahdev/ title="Instagram Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"> Instagram</a></code>
-<code><a href="https://mobile.facebook.com/yemi.tunde.3386 title="Facebook Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"> Facebook</a></code>
+<code><a href="https://twitter.com/muslimahdev?s=08" title="Twitter Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"> Twitter</a></code>
+<code><a href="https://www.linkedin.com/in/faasamomowunmi-daud" title="Linkedin Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"> Linkedin</a></code> 
+<code><a href="https://www.instagram.com/muslimahdev/" title="Instagram Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"> Instagram</a></code>
+<code><a href="https://mobile.facebook.com/yemi.tunde.3386" title="Facebook Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"> Facebook</a></code>
   
 </p>
 
