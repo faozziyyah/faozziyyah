@@ -43,13 +43,14 @@
 <a href="https://www.linkedin.com/in/faasamomowunmi-daud" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/muslimahdev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="https://mobile.facebook.com/yemi.tunde.3386" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=faozziyyah&theme=monokai)](https://git.io/streak-stats)
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=faozziyyah&show_icons=true&include_all_commits=true&theme=gruvbox" alt="Anurag's github stats" />
-</a> <br>
+</a> <br> <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faozziyyah&layout=compact&theme=material-palenight&border_color=61dafb&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a" />
