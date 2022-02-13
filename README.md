@@ -1,6 +1,7 @@
 ### Hi there 👋
   ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=plastic)
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=faozziyyah.faozziyyah&color=00cf00)
+  [![Repos Badge](https://badges.pufler.dev/repos/faozziyyah)](https://badges.pufler.dev)
 
   I'm a website developer with much passion for design and technology. <br>
   I'm willing to improve my skills through team work and constant learning with practice.
