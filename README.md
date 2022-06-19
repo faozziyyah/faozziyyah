@@ -18,11 +18,8 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=faozziyyah&theme=monokai&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -43,7 +40,7 @@
   <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<code><a href="https://twitter.com/muslimahdev?s=08" title="Twitter Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"> Twitter</a></code>
+<code><a href="https://twitter.com/muslimahdev?s=08" title="Twitter Profile"><img width="22" style="color: red;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"> Twitter</a></code>
 <code><a href="https://www.linkedin.com/in/faasamomowunmi-daud" title="Linkedin Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"> Linkedin</a></code> 
 <code><a href="https://www.instagram.com/muslimahdev/" title="Instagram Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"> Instagram</a></code>
 <code><a href="https://mobile.facebook.com/yemi.tunde.3386" title="Facebook Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"> Facebook</a></code>
