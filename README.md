@@ -47,6 +47,18 @@
   
 </p>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/faasamomowunmi-daud">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/muslimahdev/">
+    <img src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/muslimahdev?s=08">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=faozziyyah&theme=monokai)](https://git.io/streak-stats)
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
