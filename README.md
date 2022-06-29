@@ -69,6 +69,7 @@
   </a>
 </div> <br />
 
+:fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=faozziyyah&theme=monokai)](https://git.io/streak-stats)
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
