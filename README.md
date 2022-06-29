@@ -52,7 +52,7 @@
   <a href="https://mobile.facebook.com/yemi.tunde.3386">
     <img src="https://img.shields.io/badge/-Facebook-blueviolet?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-</div>
+</div> <br />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=faozziyyah&theme=monokai)](https://git.io/streak-stats)
 
