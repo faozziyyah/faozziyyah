@@ -41,7 +41,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### 🌱 I’m currently learning ...
-  Advanced javascript and react.
+  React, Redux and Python.
  
 ### 👯 I’m looking to collaborate on ...
   Projects related to website development and UI/UX design.
