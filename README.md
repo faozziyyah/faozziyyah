@@ -1,7 +1,6 @@
 ### Hi there 👋
   ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=plastic)
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=faozziyyah.faozziyyah")
-  [![Repos Badge](https://badges.pufler.dev/repos/faozziyyah)](https://badges.pufler.dev)
 
   I'm a website developer with much passion for design and technology. <br>
   I'm willing to improve my skills through team work and constant learning with practice.
@@ -47,7 +46,7 @@
 
 
 ### 💬 Ask me about ...
-  UI/UX Design and front-end development 📱💻
+  UI/UX Design and software development 📱💻
 
 ### 📫 How to reach me: ...
   
